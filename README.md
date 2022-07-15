@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sar Lin</h1>
 <h3 align="center">A developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*UFK4FjRiapOJ44dwksBanw.gif">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f1f73abac55ec57db191a6e/1600312912127-JJ1IIQIRVMR72IP7F8AD/blog_animation_cost.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarlin-7757&label=Profile%20views&color=0e75b6&style=flat" alt="sarlin-7757" /> </p>
 
