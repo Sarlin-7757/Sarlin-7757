@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **saranshlingwal923@gmail.com**
 
-- ⚡ **I am doing B-Tech (CSE)**
+- ⚡ ** Doing B-Tech (CSE)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
