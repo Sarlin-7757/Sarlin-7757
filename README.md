@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently **a student.**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning ** Dev & DSA **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarlin-7757](https://github.com/Sarlin-7757)
 
